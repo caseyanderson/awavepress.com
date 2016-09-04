@@ -1,0 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+# relative_permalinks: true
+
+# Setup
+title:               a wave press
+description: 'A private press owned and operated by Casey Anderson (est. 2015).'
+url: "http://www.awavepress.com/"
+baseurl:             ''
+gems: [jekyll-paginate]
+paginate: 10
+paginate_path: "page:num"
+
+# About/contact
+author:
+  name:
+  email:             info@awavepress.com
+
+# Custom vars
+version:             1.0.0
