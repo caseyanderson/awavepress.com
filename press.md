@@ -3,7 +3,6 @@ title: press
 permalink: /press/
 layout: page
 tag: press
-published: false
 ---
 
 
