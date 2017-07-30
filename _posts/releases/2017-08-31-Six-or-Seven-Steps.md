@@ -7,10 +7,10 @@ excerpt: CD / digital
 published: false
 ---
 
-cover
+<!-- ![]({{site.url}}/assets/photo) -->
 
 
-bandcamp
+<!-- bandcamp -->
 
 
 ## contents
@@ -21,7 +21,7 @@ bandcamp
 
 170206 (Dedicated to Olivia Giacobetti)
 
-160601 (Dedicated to Angelo Garro)
+160601 (Dedicated to Ernest Dickerson)
 
 170214 (Dedicated to Ellen Gallagher)
 
@@ -35,7 +35,7 @@ The tracks are named for the dates of their recording. Each dedicatee is an auth
 
 Performed and recorded by William Hutson in Culver City and Pasadena between September 2015 and February 2017.
 
-Design/Layout: [Steven Ziadie](http://estzi.com/)
+Design & Photography: [Steven Ziadie](http://estzi.com/)
 
 <br/>
 
