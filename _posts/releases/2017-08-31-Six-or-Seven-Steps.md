@@ -7,7 +7,7 @@ excerpt: CD / digital
 published: false
 ---
 
-![]({{site.url}}/assets/hutson_cover_4web3.jpg)
+![]({{site.url}}/assets/hutson_cover_4web4-0.jpg)
 
 
 <!-- bandcamp -->
