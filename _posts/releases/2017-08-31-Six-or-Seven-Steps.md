@@ -31,6 +31,7 @@ Solo improvisations for reel-to-reel tape recorder, mixer, test tone generator, 
 
 The tracks are named for the dates of their recording. Each dedicatee is an author (in a broad sense) whose work I experienced in some way before improvising on that day. Dedications were made after the recordings were completed and no formal or conceptual connection to the dedicatees’ work is meant to be audible in the music. I assume, however, that their work did influence my improvising—imperceptibly, unpredictably, unconsciously—by proximity.
 
+<br/>
 
 ## credits
 
