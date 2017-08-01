@@ -8,9 +8,11 @@ excerpt: CD / digital
 
 ![]({{site.url}}/assets/hutson_front_cover.png)
 
+<br/>
 
-<!-- bandcamp -->
+arriving early Fall 2017
 
+<br/>
 
 ## contents
 
