@@ -10,7 +10,7 @@ excerpt: CD / digital
 
 <br/>
 
-arriving Fall 2017
+arriving early Fall 2017
 
 <br/>
 
