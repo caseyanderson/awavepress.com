@@ -4,6 +4,7 @@ title:  "Electrocardiographs of a Cathode Ray Tube, Stephen Cornford"
 date:  2018-02-01 10:00:00 -0800
 tags: releases
 excerpt: EP / digital
+published: false
 ---
 
 
