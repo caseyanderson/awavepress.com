@@ -10,8 +10,6 @@ excerpt: CD / digital
 
 ![]({{site.url}}/assets/hutson_front_cover.png)
 
-<br/>
-
 arriving Fall 2017
 
 <br/>
