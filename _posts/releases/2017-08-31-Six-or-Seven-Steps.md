@@ -16,7 +16,7 @@ arriving Fall 2017
 
 <br/>
 
-<!-- ## contents
+## contents
 
 160627 (Dedicated to Matt Leacock)
 
@@ -45,4 +45,4 @@ Design & Photography: [Steven Ziadie](http://estzi.com/)
 
 ## thanks
 
-Micaela Tobin, Ted Byrnes, Jonathan Borges, and Casey Anderson. -->
+Micaela Tobin, Ted Byrnes, Jonathan Borges, and Casey Anderson.
