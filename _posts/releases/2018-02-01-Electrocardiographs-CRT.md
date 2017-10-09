@@ -19,8 +19,8 @@ cover here
 
 ## contents
 
-Side A time
-Side B time
+* Side A time
+* Side B time
 
 <br/>
 
