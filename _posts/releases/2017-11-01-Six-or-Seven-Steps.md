@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Six or Seven Steps to the Door: Solo Improvisations, William Hutson"
-date:  2017-08-01 13:00:00 -0800
+date:  2017-11-01 13:00:00 -0800
 tags: releases
 excerpt: CD / digital
 ---
