@@ -12,7 +12,7 @@ excerpt: CD / digital
 
 <br/>
 
-arriving November 2017
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1637671970/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://awavepress.bandcamp.com/album/six-or-seven-steps-to-the-door-solo-improvisations">Six or Seven Steps to the Door: Solo Improvisations by William Hutson</a></iframe>
 
 <br/>
 
