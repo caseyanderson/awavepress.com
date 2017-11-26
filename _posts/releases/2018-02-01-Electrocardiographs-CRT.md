@@ -8,7 +8,6 @@ published: false
 ---
 
 
-
 cover here
 
 <br/>
@@ -19,8 +18,8 @@ cover here
 
 ## contents
 
-* Side A time
-* Side B time
+* Side A: 04:12
+* Side B: 04:30
 
 <br/>
 
