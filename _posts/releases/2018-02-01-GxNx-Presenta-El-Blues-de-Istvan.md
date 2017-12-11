@@ -13,7 +13,7 @@ cover here
 
 <br/>
 
-<br/>arriving Spring 2018
+<br/>arriving Spring 2018.
 
 <br/>
 
@@ -21,17 +21,17 @@ cover here
 
 **Side A**
 
-01 A traves del espejo (6:36)
+01 A traves del espejo, 6:36
 
-02 El Blues de Istvan (6:38)
+02 El Blues de Istvan, 6:38
 
-03 Sabres (7:24)
+03 Sabres, 7:24
 
 **Side B**
 
-01 Enero (13:55)
+01 Enero, 13:55
 
-02 A traves del espejo (toma 2) (7:50)
+02 A traves del espejo (toma 2), 7:50
 
 <br/>
 
