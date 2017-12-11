@@ -18,13 +18,31 @@ cover here
 
 ## contents
 
-blah
+**Side A**
+
+01 A traves del espejo (6:36)
+
+02 El Blues de Istvan (6:38)
+
+03 Sabres (7:24)
+
+**Side B**
+
+01 Enero (13:55)
+
+02 A traves del espejo (toma 2) (7:50)
 
 <br/>
 
 ## credits
 
-Design by [Steven Ziadie](http://estzi.com/).
+Recorded MONTH YEAR in Santiago, Chile at STUDIONAME.
+
+Recorded by FIRSTNAME LASTNAME.
+
+Mastered by [Daniel Eaton](https://danielcastledine.com/) at Little Castle Mastering.
+
+Design by [Steven Ziadie](http://s-ziadie.com/).
 
 <br/>
 

@@ -25,6 +25,7 @@ cover here
 ## credits
 
 Recorded May 2016 in Sokolowsko, Poland.
+
 Mastered by Giuseppe Ielasi.
 
 Design by [Steven Ziadie](http://estzi.com/).
