@@ -39,7 +39,7 @@ The tracks are named for the dates of their recording. Each dedicatee is an auth
 
 Performed and recorded by William Hutson in Culver City and Pasadena between September 2015 and February 2017.
 
-Design & Photography: [Steven Ziadie](http://estzi.com/)
+Design & Photography: [Steven Ziadie](http://estzi.com/).
 
 <br/>
 

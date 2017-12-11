@@ -18,9 +18,9 @@ cover here
 
 ## contents
 
-Side A (04:12)
+Side A, 04:12
 
-Side B (04:30)
+Side B, 04:30
 
 <br/>
 
