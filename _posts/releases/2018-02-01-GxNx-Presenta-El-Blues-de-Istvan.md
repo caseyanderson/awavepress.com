@@ -4,7 +4,6 @@ title:  "Glorias Navales Presenta El Blues de Istvan, Glorias Navales"
 date:  2018-02-01 12:00:00 -0800
 tags: releases
 excerpt: LP / digital
-published: false
 ---
 
 
