@@ -4,11 +4,10 @@ title:  "Electrocardiographs of a Cathode Ray Tube, Stephen Cornford"
 date:  2018-02-01 10:00:00 -0800
 tags: releases
 excerpt: EP / digital
-published: false
 ---
 
 
-cover here
+![]({{site.url}}/assets/cornford_cover.jpg)
 
 <br/>
 
@@ -26,7 +25,7 @@ Side B, 04:30
 
 ## credits
 
-Recorded May 2016 in Sokolowsko, Poland.
+Recorded May 2016 in Soko&#x142;owsko, Poland.
 
 Mastered by Giuseppe Ielasi.
 
