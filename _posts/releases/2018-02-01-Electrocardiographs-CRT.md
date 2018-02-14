@@ -13,7 +13,7 @@ excerpt: EP / digital
 
 <br/>arriving Spring 2018
 
-<br/>
+<!-- <br/>
 
 ## contents
 
@@ -35,4 +35,4 @@ Design by [Steven Ziadie](http://estzi.com/).
 
 ## thanks
 
-Thanks to Gerard Lebik & Zuzanna Fogtt.
+Thanks to Gerard Lebik & Zuzanna Fogtt. -->
