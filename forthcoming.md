@@ -2,6 +2,7 @@
 title: forthcoming
 permalink: /forthcoming/
 layout: page
+tag: forthcoming
 ---
 
 * Stephen Cornford, Electrocardiographs of a Cathode Ray Tube (Spring 2018)
