@@ -4,8 +4,9 @@ permalink: /forthcoming/
 layout: page
 ---
 
-* Stephen Cornford, Electrocardiographs of a Cathode Ray Tube (Late Spring 2018)
-* Glorias Navales, Glorias Navales Presenta El Blues de Istvan (Early Summer 2018)
-* Casey Anderson / BENT DUO, ghostses (Late Summer/Early Fall 2018)
-* Mark Trayle, Nearfield Edges (Late Summer/Early Fall 2018)
-* Micaela Tobin, UNTITLED (Late 2018/Early 2019)
+* Stephen Cornford, Electrocardiographs of a Cathode Ray Tube (Spring 2018)
+* Glorias Navales, Glorias Navales Presenta El Blues de Istvan (Summer 2018)
+* Casey Anderson / BENT DUO, ghostses (2018)
+* Mark Trayle, Nearfield Edges (2018)
+* Micaela Tobin, UNTITLED (2018/2019)
+* Casey Anderson, UNTITLED (2019)
