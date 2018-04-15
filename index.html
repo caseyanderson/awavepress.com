@@ -10,7 +10,7 @@ title: Home
           {% if tag == 'press' %}   <!--  this filters out tags that should not have a hyperlinked post title for situations in which i am ONLY linking out to other places (like posts containing the press tag)-->
             {% strip %}[{{ post.tags }}] {{ post.title | append: " " | append: post.excerpt }}{% endstrip %}
             {% elsif tag == 'releases' %}
-            {% strip %} [{{ post.tags }}] <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>, {{post.artist | append: ", " | append: post.format}} {% endstrip %}
+            {% strip %} [{{ post.cat_num }}] <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>, {{post.artist | append: ", " | append: post.format}} {% endstrip %}
             </h2>
   {% endif %}
  {% endfor %}
