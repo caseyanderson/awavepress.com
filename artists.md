@@ -5,7 +5,8 @@ layout: page
 tag: artists
 ---
 
-
+{% strip %}
 {% for post in site.tags['artists'] %}
-<h2>{% strip %}<a class="post-link" href="{{ post.url }}">{{ post.title }}</a>{% endstrip %}</h2>,
+<h2><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></h2>,
 {% endfor %}
+{% endstrip %}
