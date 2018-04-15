@@ -5,8 +5,6 @@ layout: page
 tag: forthcoming
 ---
 
-* Stephen Cornford, Electrocardiographs of a Cathode Ray Tube (Spring 2018)
-* Glorias Navales, Glorias Navales Presenta El Blues de Istvan (Summer 2018)
 * Casey Anderson / BENT DUO, ghostses (2018)
 * Cackle Car (Ted Byrnes & Sam McKinlay), UNTITLED (2018)
 * Mark Trayle, Nearfield Edges (2018)
