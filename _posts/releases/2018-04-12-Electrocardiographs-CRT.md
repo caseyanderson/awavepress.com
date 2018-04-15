@@ -11,7 +11,7 @@ excerpt: EP / digital
 
 <br/>
 
-<br/>arriving Spring 2018
+arriving Spring 2018
 
 <br/>
 
