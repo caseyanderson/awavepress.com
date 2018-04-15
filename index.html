@@ -3,18 +3,15 @@ layout: default
 title: Home
 ---
 
-  {% for post in paginator.posts %}
-<h2>
-          {% for tag in post.tags %}
-
-          {% if tag == 'press' %}   <!--  this filters out tags that should not have a hyperlinked post title for situations in which i am ONLY linking out to other places (like posts containing the press tag)-->
-            {% strip %}[{{ post.tags }}] {{ post.title | append: " " | append: post.excerpt }}{% endstrip %}
-            {% elsif tag == 'releases' %}
-            {% strip %} [{{ post.cat_num }}] <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>, {{post.artist | append: ", " | append: post.format}} {% endstrip %}
-            </h2>
-  {% endif %}
- {% endfor %}
-  {% endfor %}
+{% for post in paginator.posts %}
+    {% for tag in post.tags %}
+        {% if tag == 'press' %}
+            <h2>{% strip %} [{{post.tags}}] {{ post.title | append: ", " | append: post.author | append: ", " | append: post.publisher | append: " " }} <a href= "{{post.pub_url}}">→</a> {% endstrip %}</h2>
+        {% elsif tag == 'releases' %}
+            <h2>{% strip %} [{{ post.cat_num }}] <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>, {{post.artist | append: ", " | append: post.format}} {% endstrip %}</h2>
+        {% endif %}
+    {% endfor %}
+{% endfor %}
 
 <div class="pagination">
   {% if paginator.next_page %}
