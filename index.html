@@ -6,9 +6,9 @@ title: Home
 {% for post in paginator.posts %}
     {% for tag in post.tags %}
         {% if tag == 'press' %}
-            {% strip %} <h3>[{{post.tags}}] {{ post.title | append: ", " | append: post.author | append: ", " | append: post.publisher | append: " " }} <a href= "{{post.pub_url}}">→</a></h3>{% endstrip %}
+            {% strip %} <h2>[{{post.tags}}] {{ post.title | append: ", " | append: post.author | append: ", " | append: post.publisher | append: " " }} <a href= "{{post.pub_url}}">→</a></h2>{% endstrip %}
         {% elsif tag == 'releases' %}
-            {% strip %}<h3>[{{ post.cat_num }}] <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>, {{post.artist | append: ", " | append: post.format}}</h3>{% endstrip %}
+            {% strip %}<h2>[{{ post.cat_num }}] <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>, {{post.artist | append: ", " | append: post.format}}</h2>{% endstrip %}
         {% endif %}
     {% endfor %}
 {% endfor %}
