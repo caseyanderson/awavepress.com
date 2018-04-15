@@ -18,15 +18,11 @@ format: CD / digital
 
 ## contents
 
-160627 (Dedicated to Matt Leacock)
-
-150916 (Dedicated to Eugenie Brinkema)
-
-170206 (Dedicated to Olivia Giacobetti)
-
-160601 (Dedicated to Ernest Dickerson)
-
-170214 (Dedicated to Ellen Gallagher)
+* 160627 (Dedicated to Matt Leacock)
+* 150916 (Dedicated to Eugenie Brinkema)
+* 170206 (Dedicated to Olivia Giacobetti)
+* 160601 (Dedicated to Ernest Dickerson)
+* 170214 (Dedicated to Ellen Gallagher)
 
 <br/>
 
