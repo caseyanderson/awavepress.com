@@ -38,12 +38,12 @@ The tracks are named for the dates of their recording. Each dedicatee is an auth
 
 ## credits
 
-Performed and recorded by William Hutson in Culver City and Pasadena between September 2015 and February 2017.
+Performed and recorded by William Hutson in Culver City and Pasadena between September 2015 and February 2017
 
-Design & Photography: [Steven Ziadie](http://estzi.com/).
+Design & Photography: [Steven Ziadie](http://estzi.com/)
 
 <br/>
 
 ## thanks
 
-Micaela Tobin, Ted Byrnes, Jonathan Borges, and Casey Anderson.
+Micaela Tobin, Ted Byrnes, Jonathan Borges, and Casey Anderson
