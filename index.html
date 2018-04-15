@@ -6,8 +6,9 @@ title: Home
   {% for post in paginator.posts %}
 <h2>
           {% for tag in post.tags %}
+
           {% if tag == 'press' %}   <!--  this filters out tags that should not have a hyperlinked post title for situations in which i am ONLY linking out to other places (like posts containing the press tag)-->
-            {% strip %} [{{ post.tags }}] {{ post.title | append: post.excerpt }} {% endstrip %}
+            {% strip %}[{{ post.tags }}] {{ post.title | append: " " | append: post.excerpt }}{% endstrip %}
             {% elsif tag == 'releases' %}
             {% strip %} [{{ post.tags }}] <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>, {{post.excerpt}} {% endstrip %}
             </h2>

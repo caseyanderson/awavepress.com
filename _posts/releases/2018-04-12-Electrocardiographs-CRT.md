@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Electrocardiographs of a Cathode Ray Tube, Stephen Cornford"
-date:  2018-02-01 10:00:00 -0800
+date:  2018-04-12 10:00:00 -0800
 tags: releases
 excerpt: EP / digital
 ---
@@ -13,26 +13,25 @@ excerpt: EP / digital
 
 <br/>arriving Spring 2018
 
-<!-- <br/>
+<br/>
 
 ## contents
 
-Side A, 04:12
-
-Side B, 04:30
+* Side A (04:12)
+* Side B (04:30)
 
 <br/>
 
 ## credits
 
-Recorded May 2016 in Soko&#x142;owsko, Poland.
+Recorded May 2016 in Soko&#x142;owsko, Poland
 
-Mastered by Giuseppe Ielasi.
+Mastered by Giuseppe Ielasi
 
-Design by [Steven Ziadie](http://estzi.com/).
+Design by [Steven Ziadie](http://estzi.com/)
 
 <br/>
 
 ## thanks
 
-Thanks to Gerard Lebik & Zuzanna Fogtt. -->
+Thanks to Gerard Lebik & Zuzanna Fogtt
