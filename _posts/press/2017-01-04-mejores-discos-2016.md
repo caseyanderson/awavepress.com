@@ -5,7 +5,7 @@ tags: press
 
 title:  "Los mejores discos del 2016"
 author: "Javier Santafe"
-publisher: "javier4w"
+publisher: "javier4w.blogspot.es"
 pub_date: "Jan 4th, 2017"
 pub_url: "https://javier4w.blogspot.com.es/2017/01/los-mejores-discos-del-2016.html"
 ---
