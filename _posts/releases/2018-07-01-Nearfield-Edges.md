@@ -1,10 +1,11 @@
 ---
 layout: post
+date:  2018-07-01 12:00:00 -0800
+tags: releases
+
 cat_num: "awp008"
 title:  "Nearfield Edges"
 artist: "Mark Trayle"
-date:  2018-07-01 12:00:00 -0800
-tags: releases
 format: CD / digital
 published: false
 ---

@@ -1,10 +1,11 @@
 ---
 layout: post
+date:  2018-08-01 12:00:00 -0800
+tags: releases
+
 cat_num: "awp009"
 title:  "UNTITLED"
 artist: "Cackle Car"
-date:  2018-08-01 12:00:00 -0800
-tags: releases
 format: CS / digital
 published: false
 ---

@@ -1,10 +1,11 @@
 ---
 layout: post
+date:  2018-04-12 10:00:00 -0800
+tags: releases
+
 cat_num: "awp005"
 title:  "Electrocardiographs of a Cathode Ray Tube"
 artist: "Stephen Cornford"
-date:  2018-04-12 10:00:00 -0800
-tags: releases
 format: EP / digital
 ---
 
