@@ -1,8 +1,8 @@
 ---
 layout: post
-cat_num: "awp007"
-title:  "ghostses"
-artist: "Casey Anderson / BENT DUO"
+cat_num: "awp008"
+title:  "Nearfield Edges"
+artist: "Mark Trayle"
 date:  2018-07-01 12:00:00 -0800
 tags: releases
 format: CD / digital
@@ -19,16 +19,20 @@ cover here
 
 ## contents
 
+Nearfield Edges
+
 <br/>
 
 ## credits
 
 Recorded MONTH YEAR in Los Angeles, California at STUDIONAME
 
-Recorded by Justin Asher
+Recorded by FIRSTNAME LASTNAME
 
-Mastered by [Scott Cazan](http://www.scottcazan.com/)
+Mastered by FIRSTNAME LASTNAME
 
 Design by [Steven Ziadie](http://s-ziadie.com/)
 
 <br/>
+
+## thanks

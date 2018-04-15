@@ -1,11 +1,11 @@
 ---
 layout: post
-cat_num: "awp007"
-title:  "ghostses"
-artist: "Casey Anderson / BENT DUO"
-date:  2018-07-01 12:00:00 -0800
+cat_num: "awp009"
+title:  "UNTITLED"
+artist: "Cackle Car"
+date:  2018-08-01 12:00:00 -0800
 tags: releases
-format: CD / digital
+format: CS / digital
 published: false
 ---
 

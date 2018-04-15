@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Glorias Navales Presenta El Blues de Istvan, Glorias Navales"
+cat_num: "awp006"
+title:  "Glorias Navales Presenta El Blues de Istvan"
+artist: "Glorias Navales"
 date:  2018-04-12 12:00:00 -0800
 tags: releases
-excerpt: LP / digital
+format: LP / digital
 ---
 
 <br/>arriving late-Spring / early-Summer 2018

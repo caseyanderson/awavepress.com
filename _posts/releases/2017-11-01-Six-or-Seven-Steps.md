@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Six or Seven Steps to the Door: Solo Improvisations, William Hutson"
+cat_num: "awp003"
+title:  "Six or Seven Steps to the Door: Solo Improvisations"
+artist: "William Hutson"
 date:  2017-11-01 13:00:00 -0800
 tags: releases
-excerpt: CD / digital
+format: CD / digital
 ---
-
-
 
 ![]({{site.url}}/assets/hutson_front_cover.png)
 
