@@ -13,7 +13,7 @@ format: EP / digital
 
 <br/>
 
-arriving Spring 2018
+arriving June 2018
 
 <br/>
 

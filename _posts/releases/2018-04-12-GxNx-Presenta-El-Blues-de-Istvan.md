@@ -9,7 +9,7 @@ artist: "Glorias Navales"
 format: LP / digital
 ---
 
-<br/>arriving late-Spring / early-Summer 2018
+<br/>arriving Summer 2018
 
 <br/>
 
