@@ -31,4 +31,4 @@ Recorded during the Southern Hemisphere Winter of 2017 in Santiago, Chile at BYM
 
 Mastered by [Daniel Eaton](https://danielcastledine.com/) at Little Castle Mastering
 
-Design by [Steven Ziadie](http://s-ziadie.com/)
+Design by [Steven Ziadie](https://s-ziadie.com/)
