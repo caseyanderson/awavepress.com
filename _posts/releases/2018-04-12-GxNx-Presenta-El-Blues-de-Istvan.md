@@ -7,6 +7,7 @@ cat_num: "awp006"
 title:  "Glorias Navales Presenta El Blues de Istvan"
 artist: "Glorias Navales"
 format: LP / digital
+published: false
 ---
 
 <br/>arriving Summer 2018
