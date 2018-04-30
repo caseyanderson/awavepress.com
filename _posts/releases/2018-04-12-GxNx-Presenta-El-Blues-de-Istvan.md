@@ -7,13 +7,15 @@ cat_num: "awp006"
 title:  "Glorias Navales Presenta El Blues de Istvan"
 artist: "Glorias Navales"
 format: LP / digital
-published: false
 ---
 
-<br/>arriving Summer 2018
+![]({{site.url}}/assets/gxnx_cover_4web.jpg)
 
 <br/>
 
+arriving Summer 2018
+
+<br/>
 ## contents
 
 * A1 - Entrando al Espejo (6:50)
