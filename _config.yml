@@ -9,7 +9,7 @@ title:               a wave press
 description: 'A private press owned and operated by Casey Anderson (est. 2015).'
 url: "https://awavepress.com/"
 baseurl:             ''
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 paginate: 10
 paginate_path: "page:num"
 
