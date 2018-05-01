@@ -9,7 +9,7 @@ artist: "William Hutson"
 format: CD / digital
 ---
 
-![](http://awavepress.com/assets/hutson_front_cover.png)
+![](https://awavepress.com/assets/hutson_front_cover.png)
 
 <br/>
 

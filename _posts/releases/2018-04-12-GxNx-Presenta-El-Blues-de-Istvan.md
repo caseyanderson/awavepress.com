@@ -9,7 +9,7 @@ artist: "Glorias Navales"
 format: LP / digital
 ---
 
-![](http://awavepress.com/assets/gxnx_cover_4web.jpg)
+![](https://awavepress.com/assets/gxnx_cover_4web.jpg)
 
 <br/>
 
