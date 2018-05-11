@@ -6,7 +6,7 @@ tag: forthcoming
 ---
 
 * Casey Anderson / BENT DUO, ghostses (2018)
-* Cackle Car (Ted Byrnes & Sam McKinlay), UNTITLED (2018)
+* CACKLE CAR (Ted Byrnes & Sam McKinlay), IDLING 1 (2018)
 * Mark Trayle, Nearfield Edges (2018)
 * Micaela Tobin, UNTITLED (2018/2019)
 * Casey Anderson, UNTITLED (2019)
