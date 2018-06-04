@@ -1,6 +1,6 @@
 ---
 layout: post
-date:  2018-04-12 10:00:00 -0800
+date:  2018-06-06 10:00:00 -0800
 tags: releases
 
 cat_num: "awp005"
@@ -13,7 +13,7 @@ format: EP / digital
 
 <br/>
 
-arriving June 2018
+arriving June 6th 2018
 
 <br/>
 
