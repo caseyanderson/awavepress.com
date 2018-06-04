@@ -1,6 +1,6 @@
 ---
 layout: post
-date:  2018-04-12 12:00:00 -0800
+date:  2018-06-01 12:00:00 -0800
 tags: releases
 
 cat_num: "awp006"
@@ -13,7 +13,7 @@ format: LP / digital
 
 <br/>
 
-arriving Summer 2018
+arriving late Summer 2018
 
 <br/>
 ## contents
