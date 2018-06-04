@@ -1,6 +1,6 @@
 ---
 layout: post
-date:  2018-06-01 08:00:00 -0800
+date:  2018-06-06 08:00:00 -0800
 tags: releases
 
 cat_num: "awp005"
