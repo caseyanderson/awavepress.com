@@ -45,7 +45,7 @@ Design by [Steven Ziadie](https://s-ziadie.com/)
 
 ## Haunted Tapes: Making Glorias Navales Presenta El Blues de Istvan
 
-I was introduced to Santiago, Chile-based Glorias Navales’ music through Graham Lambkin's now-defunct KYE Records, which released the group's first LP, *Cofradía Náutica*, in September of 2016. Following its arrival at my apartment the album did not leave my turntable for months. Glorias Navales magically fuse a variety of disparate styles of music making into a unique whole: folk music, trance-inducing repetition, improvisation, and extended techniques (to name only a few).
+I was introduced to the music of Santiago, Chile-based Glorias Navales through Graham Lambkin's now-defunct KYE Records, which released the group's first LP, *Cofradía Náutica*, in September of 2016. Following its arrival at my apartment the album did not leave my turntable for months. Glorias Navales magically fuse a variety of disparate styles of music making into a unique whole: folk music, trance-inducing repetition, improvisation, and extended techniques (to name only a few).
 
 Here are three attempts at describing Glorias Navales, though I recognize that none of these fully capture their sound:
 
