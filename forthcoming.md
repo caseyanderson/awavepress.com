@@ -10,4 +10,6 @@ tag: forthcoming
 * CACKLE CAR, IDLING 1 (Fall 2018)
 * Micaela Tobin, UNTITLED (2018/2019)
 * Casey Anderson, UNTITLED (2019)
+* Stephanie Cheng Smith, UNTITLED (2019)
+* Thomas Wincek, UNTITLED (2019)
 * Mark Trayle, Laminariae (2019)
