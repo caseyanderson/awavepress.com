@@ -7,6 +7,7 @@ cat_num: "awp008"
 title:  "Nearfield Edges"
 artist: "Mark Trayle"
 format: CD / digital
+published: false
 ---
 
 arriving Fall 2018
