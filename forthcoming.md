@@ -5,7 +5,7 @@ layout: page
 tag: forthcoming
 ---
 
-* Casey Anderson / BENT DUO, ghostses (Fall 2018)
+* BENT DUO, Bent Duo Presents ghostses by Casey Anderson (Fall 2018)
 * Mark Trayle, Nearfield Edges (Fall 2018)
 * CACKLE CAR, IDLING 1 (Fall 2018)
 * Micaela Tobin, UNTITLED (2018/2019)
