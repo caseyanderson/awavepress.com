@@ -1,6 +1,6 @@
 ---
 layout: post
-date:  2018-06-28 9:00:00 -0800
+date:  2018-07-01 9:00:00 -0800
 tags: press
 
 title:  "Cornford, Stephen – Electrocardiographs of a Cathode Ray Tube"
