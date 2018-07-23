@@ -10,7 +10,7 @@ title: Home
         {% elsif tag == 'releases' %}
             {% strip %}<h2>[{{ post.cat_num }}] <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>, {{post.artist | append: ", " | append: post.format}}</h2>{% endstrip %}
         {% elsif tag == 'forthcoming' %}
-            {% strip %}<h2>[{{ post.cat_num }}] {{ post.title }}, {{post.artist | append: ", " | append: post.format}}</h2>{% endstrip %}
+            {% strip %}<h2>forthcoming: [{{ post.cat_num }}] {{ post.title }}, {{post.artist | append: ", " | append: post.format}}</h2>{% endstrip %}
         {% endif %}
     {% endfor %}
 {% endfor %}
