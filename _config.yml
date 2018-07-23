@@ -10,7 +10,7 @@ description: 'A private press owned and operated by Casey Anderson (est. 2015).'
 url: "http://awavepress.com/"
 baseurl:             ''
 plugins: [jekyll-paginate]
-paginate: "10"
+paginate: 10
 paginate_path: "page:num"
 
 # About/contact
