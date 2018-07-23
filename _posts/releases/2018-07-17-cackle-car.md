@@ -7,6 +7,7 @@ cat_num: "awp009"
 title:  "IDLING 1"
 artist: "Cackle Car"
 format: CS20 / digital
+arrival: Fall/Winter 2018
 ---
 
 cover here
