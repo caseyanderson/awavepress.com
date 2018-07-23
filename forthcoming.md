@@ -5,7 +5,7 @@ layout: page
 tag: forthcoming
 ---
 
-{% for post in site.tags['forthcoming'] %}
+{% for post in site.tags['forthcoming'] reversed %}
 
 {% strip %}<h2>[{{ post.cat_num }}] {{post.title }}, {{ post.artist | append: ", " | append: post.format }}</h2>{% endstrip %}
 
