@@ -6,5 +6,5 @@ tag: artists
 ---
 
 {% for post in site.tags['artists'] %}
-<h3><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></h3>
+{% strip %}<h2><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></h2>{% endstrip %}
 {% endfor %}
