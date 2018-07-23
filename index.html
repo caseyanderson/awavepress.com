@@ -9,6 +9,8 @@ title: Home
             {% strip %} <h2>[{{post.tags}}] {{ post.title | append: ", " | append: post.author | append: ", " | append: post.publisher | append: " " }} <a href= "{{post.pub_url}}" target="_blank">→</a></h2>{% endstrip %}
         {% elsif tag == 'releases' %}
             {% strip %}<h2>[{{ post.cat_num }}] <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>, {{post.artist | append: ", " | append: post.format}}</h2>{% endstrip %}
+        {% elsif tag == 'forthcoming' %}
+            {% strip %}<h2>[{{ post.cat_num }}] {{ post.title }}, {{post.artist | append: ", " | append: post.format}}</h2>{% endstrip %}
         {% endif %}
     {% endfor %}
 {% endfor %}
