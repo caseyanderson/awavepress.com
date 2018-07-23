@@ -4,9 +4,9 @@ date:  2018-07-17 12:00:00 -0800
 tags: forthcoming
 
 cat_num: "awp009"
-title:  "UNTITLED"
+title:  "IDLING 1"
 artist: "Cackle Car"
-format: CS / digital
+format: CS20 / digital
 ---
 
 cover here
