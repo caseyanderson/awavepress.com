@@ -19,8 +19,6 @@ arrival: Fall 2018
 
 ## contents
 
-## contents
-
 * Side A (10:00)
 * Side B (10:00)
 
