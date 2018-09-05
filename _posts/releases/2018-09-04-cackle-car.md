@@ -28,7 +28,7 @@ Cackle Car is Ted Byrnes and Sam McKinlay
 
 Side A recorded by Taylor Geddes April 7, 2018 in Vancouver, BC, CANADA
 
-Side B recorded by Ted Byrnes / Sam McKinlay May, 2018
+Side B recorded by Ted Byrnes / Sam McKinlay May 2018
 
 Mixed and Mastered by Sam McKinlay
 
