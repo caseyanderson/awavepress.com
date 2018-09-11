@@ -12,7 +12,7 @@ format: CS20 / digital
 
 <br/>
 
-<br/>arriving October 2018
+<br/>arriving October 02, 2018
 
 <br/>
 
