@@ -18,8 +18,8 @@ format: CS20 / digital
 
 ## contents
 
-* Side A (10:00)
-* Side B (10:00)
+* Side A (09:59)
+* Side B (10:02)
 
 ## credits
 
