@@ -12,7 +12,7 @@ format: CS20 / digital
 
 <br/>
 
-<br/>arriving October 03, 2018
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2964641754/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://awavepress.bandcamp.com/album/idling-1">IDLING 1 by CACKLE CAR</a></iframe>
 
 <br/>
 
