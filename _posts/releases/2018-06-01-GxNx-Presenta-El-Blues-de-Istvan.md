@@ -17,7 +17,7 @@ format: LP / digital
 
 <br/>
 
-Available for pre-order [now](https://awavepress.bandcamp.com/album/glorias-navales-presenta-el-blues-de-istvan), arrives mid-to-late September 2018.
+Available for pre-order [now](https://awavepress.bandcamp.com/album/glorias-navales-presenta-el-blues-de-istvan), arrives October 15th, 2018.
 
 <br/>
 
