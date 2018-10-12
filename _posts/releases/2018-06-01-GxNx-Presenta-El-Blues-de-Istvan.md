@@ -13,10 +13,6 @@ format: LP / digital
 
 <br/>
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4238493971/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless></iframe>
-
-<br/>
-
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4238493971/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://awavepress.bandcamp.com/album/glorias-navales-presenta-el-blues-de-istvan">Glorias Navales Presenta El Blues de Istvan by Glorias Navales</a></iframe>
 
 <br/>
