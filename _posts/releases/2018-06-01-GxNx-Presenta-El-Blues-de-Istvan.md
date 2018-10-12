@@ -21,7 +21,7 @@ format: LP / digital
 
 * A1 - Entrando al Espejo (6:50)
 * A2 - Sabres (7:22)
-* A3 - El Blues de Istvan (06:36)
+* A3 - El Blues de Istvan (6:36)
 * B1 - Enero (13:52)
 * B2 - Entrando al Espejo (Vuelta) (7:48)
 
