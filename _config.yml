@@ -7,7 +7,7 @@ permalink:           pretty
 # Setup
 title:               a wave press
 description: 'A private press owned and operated by Casey Anderson (est. 2015).'
-url: "http://awavepress.com/"
+url: "https://awavepress.com/"
 baseurl:             ''
 plugins: [jekyll-paginate]
 paginate: 10

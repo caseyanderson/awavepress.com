@@ -9,7 +9,7 @@ artist: "Stephen Cornford"
 format: EP / digital
 ---
 
-![](https://awavepress.com/assets/cornford_cover.jpg)
+![]({{site.url}}/assets/cornford_cover.jpg)
 
 <br/>
 
