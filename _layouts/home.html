@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- if site.posts.size > 0 -%}
+    <ul class="post-list">
+      {%- for post in site.posts -%}
+	<li>
+	{%- if post.tags[0] != "artists" -%}
+		{%- if post.tags[0] == "releases" -%}
+			{% strip %}<h2>[{{- post.cat_num -}}] <a href="{{- post.url -}}">{{- post.title -}}</a>, {{- post.artist | append: ", " | append: post.format -}}</h2>{% endstrip %}
+		{%- elsif post.tags[0] == "press" -%}
+			{% strip %} <h2>[{{- post.tags -}}] {{- post.title | append: ", " | append: post.author | append: ", " | append: post.publisher | append: " " -}} <a href= "{{- post.pub_url -}}" target="_blank">→</a></h2>{% endstrip %}
+		{%- endif -%}
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+      </li>
+	{%- endif -%}
+      {%- endfor -%}
+    </ul>
+
+  {%- endif -%}
+
+</div>
+

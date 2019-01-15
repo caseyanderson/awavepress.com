@@ -1,0 +1,13 @@
+title: a wave press
+email: info@awavepress.com
+description: a wave press is a private press with an emphasis on experimental work in and around music and sound.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: _awavepress_
+instagram_username: awavepress
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
