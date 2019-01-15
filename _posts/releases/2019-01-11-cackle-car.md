@@ -1,6 +1,6 @@
 ---
 layout: post
-date:  2018-09-04 12:00:00 -0800
+date:  2019-01-11 12:00:00 -0800
 tags: releases
 cat_num: "awp009"
 title:  "IDLING 1"
