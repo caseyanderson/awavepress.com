@@ -10,9 +10,7 @@ layout: default
   {{- content -}}
 
   {%- if site.posts.size > 0 -%}
-    <ul class="post-list">
       {%- for post in site.posts -%}
-	     <li>
         {%- if post.tags[0] == "releases" -%}
           {% strip %}<h2>[{{- post.cat_num -}}] <a href="{{- post.url -}}">{{- post.title -}}</a>{{- ", " | append: post.artist | append: ", " | append: post.format -}}</h2>{% endstrip %}
         {%- elsif post.tags[0] == "press" -%}
@@ -21,9 +19,7 @@ layout: default
         {%- if site.show_excerpts -%}
           {{- post.excerpt -}}
         {%- endif -%}
-      </li>
       {%- endfor -%}
-    </ul>
 
   {%- endif -%}
 
