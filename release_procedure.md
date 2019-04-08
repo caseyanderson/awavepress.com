@@ -2,7 +2,6 @@
 title: release procedure
 permalink: /release_procedure/
 layout: page
-published: false
 ---
 
 Here is how we do things at a wave press. I mention these things ahead of time to be as transparent as possible and because there has been confusion about the standard release procedure in the past that has lead to avoidable situations. I hope the following sounds reasonable:
