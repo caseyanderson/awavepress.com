@@ -3,11 +3,9 @@ layout: default
 ---
 
 <div class="home">
-  {% unless page.exclude %}
     {%- if page.title -%}
       <h1 class="page-heading">{{- page.title -}}</h1>
     {%- endif -%}
-  {% endunless %}
 
   {{- content -}}
 
