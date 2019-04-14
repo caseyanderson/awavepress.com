@@ -8,7 +8,6 @@ title:  "TALK RADIO: An Opera"
 artist: "Casey Anderson"
 format: LP / digital
 arrival: "2020"
-published: false
 ---
 
 cover here
