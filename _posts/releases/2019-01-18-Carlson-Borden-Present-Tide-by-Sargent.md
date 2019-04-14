@@ -1,13 +1,13 @@
 ---
 layout: post
-date:  2019-01-14 12:00:00 -0600
+date:  2019-01-18 12:00:00 -0600
 tags: forthcoming
 
-cat_num: "awp012"
-title:  "Dyads"
-artist: "Scott Cazan"
-format: CD / digital
-arrival: Spring / Summer 2019
+cat_num: "awp016"
+title:  "Erik Carlson & TJ Borden Present Tide by Matt Sargent"
+artist: "Erik Carlson, TJ Borden, & Matt Sargent"
+format: LP / digital
+arrival: "2020"
 ---
 
 cover here
@@ -26,7 +26,7 @@ blah
 
 ## credits
 
-Recorded MONTH YEAR in Los Angeles, California at STUDIONAME.
+Recorded MONTH YEAR in CITY, STATE at STUDIONAME.
 
 Recorded by FIRSTNAME LASTNAME.
 

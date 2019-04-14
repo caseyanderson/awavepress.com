@@ -1,13 +1,13 @@
 ---
 layout: post
-date:  2018-07-23 12:00:00 -0800
+date:  2019-01-17 12:00:00 -0800
 tags: forthcoming
 
-cat_num: "awp020"
-title:  "ROUNDS"
-artist: "the wulf."
-format: LP + booklet / digital
-arrival: Summer 2019
+cat_num: "awp015"
+title:  "TALK RADIO: An Opera"
+artist: "Casey Anderson"
+format: LP / digital
+arrival: "2020"
 published: false
 ---
 
