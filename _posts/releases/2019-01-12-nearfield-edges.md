@@ -1,16 +1,20 @@
 ---
 layout: post
 date:  2019-01-12 12:00:00 -0800
-tags: forthcoming
+tags: releases
 
 cat_num: "awp008"
 title:  "Nearfield Edges"
 artist: "Mark Trayle"
 format: CD / digital
-arrival: April/May 2019
+arrival: May 2019
 ---
 
-arriving March 2019
+![](https://awavepress.com/assets/AWP008web.jpg)
+
+<br/>
+
+arriving may 2019
 
 <br/>
 
