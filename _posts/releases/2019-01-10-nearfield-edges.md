@@ -14,7 +14,7 @@ arrival: May 2019
 
 <br/>
 
-arriving may 2019
+arriving May 1st, 2019
 
 <br/>
 
