@@ -14,7 +14,7 @@ arrival: May 2019
 
 <br/>
 
-arriving May 1st, 2019
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1087073923/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://awavepress.bandcamp.com/album/nearfield-edges">Nearfield Edges by Mark Trayle</a></iframe>
 
 <br/>
 
