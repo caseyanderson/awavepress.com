@@ -4,10 +4,10 @@ date:  2019-01-13 12:00:00 -0600
 tags: forthcoming
 
 cat_num: "awp010"
-title:  "UNTITLED"
+title:  "A Vast Room"
 artist: "Micaela Tobin"
 format: CD / digital
-arrival: Summer 2019
+arrival: August 2019
 ---
 
 <br/>
