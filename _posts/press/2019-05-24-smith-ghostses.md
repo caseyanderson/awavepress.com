@@ -7,5 +7,5 @@ title:  "Goings On About Town: Bent Duo"
 author: "Steve Smith"
 publisher: "The New Yorker"
 pub_date: "May 24th, 2019"
-pub_url: "https://www.newyorker.com/goings-on-about-town/classical-music/as-one"
+pub_url: "https://www.newyorker.com/goings-on-about-town/classical-music/bent-duo"
 ---
