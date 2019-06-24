@@ -7,5 +7,5 @@ title:  "William Hutson | Six or Seven Steps to the Door: Solo Improvisations (A
 author: "Ilia Belorukov"
 publisher: "syg.ma"
 pub_date: "June 24th, 2019"
-pub_url: ""https://syg.ma/@musicworm/william-hutson-six-or-seven-steps-to-the-door-solo-improvisations-a-wave-press"
+pub_url: "https://syg.ma/@musicworm/william-hutson-six-or-seven-steps-to-the-door-solo-improvisations-a-wave-press"
 ---
