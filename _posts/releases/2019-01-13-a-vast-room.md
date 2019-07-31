@@ -7,7 +7,7 @@ cat_num: "awp010"
 title:  "A Vast Room"
 artist: "Micaela Tobin"
 format: CD / digital
-arrival: August 2019
+arrival: October 2019
 ---
 
 <br/>
@@ -20,14 +20,10 @@ blah
 
 ## credits
 
-Recorded MONTH YEAR in Los Angeles, California at STUDIONAME.
+Recorded MONTH YEAR in Los Angeles, California at Human Resources.
 
-Recorded by FIRSTNAME LASTNAME.
+Recorded by Christopher Fleeger
 
-Mastered by FIRSTNAME LASTNAME.
+Mixed and Mastered by Justin Asher
 
 Design by [Steven Ziadie](http://s-ziadie.com/).
-
-<br/>
-
-## thanks
