@@ -14,16 +14,17 @@ arrival: October 2019
 
 ## contents
 
-blah
 
 <br/>
 
 ## credits
 
-Recorded MONTH YEAR in Los Angeles, California at Human Resources.
+Inspired by the now-archived subreddit *Dimensional Jumping (No. 982)*
 
-Recorded by Christopher Fleeger
+Composed, Performed, and Edited 2018 by Micaela Tobin
 
-Mixed and Mastered by Justin Asher
+Recorded April, 2018 in Los Angeles, CA by Christopher Fleeger at Human Resources
 
-Design by [Steven Ziadie](http://s-ziadie.com/).
+Mixed and Mastered August, 2019 in Los Angeles, CA by Justin Asher for Mnemonic Recordings
+
+Design by [Steven Ziadie](http://s-ziadie.com/)
