@@ -7,7 +7,7 @@ cat_num: "awp016"
 title:  "Erik Carlson & TJ Borden Present Tide by Matt Sargent"
 artist: "Erik Carlson, TJ Borden, & Matt Sargent"
 format: LP / digital
-arrival: "2020"
+arrival: "Spring 2020"
 ---
 
 cover here
