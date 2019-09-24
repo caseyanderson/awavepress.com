@@ -1,7 +1,7 @@
 ---
 layout: post
 date:  2019-01-13 12:00:00 -0600
-tags: forthcoming
+tags: releases
 
 cat_num: "awp010"
 title:  "A Vast Room"
@@ -10,9 +10,32 @@ format: CD / digital
 arrival: October 2019
 ---
 
-<br/>
+![](https://awavepress.com/assets/tobin_cover.jpg)
 
 ## contents
+
+Timeline A
+* Part 1 (03:15)
+* Part 2 (02:12)
+* Part 3 (01:35)
+* Part 4 (00:24)
+* Part 5 (01:35)
+* Part 6 (01:31)
+* Part 7 (01:22)
+* Part 8 (00:58)
+* Part 9 (01:28)
+
+Timeline B
+* Part 1 (03:13)
+* Part 2 (03:02)
+* Part 3 (04:01)
+* Part 4 (01:35)
+* Part 5 (00:58)
+* Part 6 (01:45)
+* Part 7 (01:27)
+* Part 8 (00:58)
+* Part 9 (02:29)
+* Part 10 (03:52)
 
 
 <br/>
