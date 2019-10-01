@@ -1,13 +1,12 @@
 ---
 layout: post
-date:  2019-01-13 12:00:00 -0600
+date:  2019-10-07 06:00:00 -0600
 tags: releases
 
 cat_num: "awp010"
 title:  "A Vast Room"
 artist: "Micaela Tobin"
 format: CD / digital
-arrival: October 2019
 ---
 
 ![](https://awavepress.com/assets/tobin_cover.jpg)
