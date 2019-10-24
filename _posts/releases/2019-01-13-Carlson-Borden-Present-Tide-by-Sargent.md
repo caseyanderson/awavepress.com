@@ -1,9 +1,9 @@
 ---
 layout: post
-date:  2019-01-18 12:00:00 -0600
+date:  2019-01-13 12:00:00 -0600
 tags: forthcoming
 
-cat_num: "awp016"
+cat_num: "awp013"
 title:  "Erik Carlson & TJ Borden Present Tide by Matt Sargent"
 artist: "Erik Carlson, TJ Borden, & Matt Sargent"
 format: LP / digital
