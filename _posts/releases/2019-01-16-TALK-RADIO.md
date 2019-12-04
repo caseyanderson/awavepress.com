@@ -7,7 +7,7 @@ cat_num: "awp015"
 title:  "TALK RADIO: An Opera"
 artist: "Casey Anderson"
 format: LP / digital
-arrival: "2020"
+arrival: "2021"
 ---
 
 cover here
