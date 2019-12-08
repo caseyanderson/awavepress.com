@@ -7,7 +7,7 @@ cat_num: "awp011"
 title:  "guitar solo"
 artist: "Casey Anderson"
 format: LP / digital
-arrival: 2020
+arrival: Fall 2020
 ---
 
 cover here
