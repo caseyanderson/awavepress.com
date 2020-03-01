@@ -1,20 +1,16 @@
 ---
 layout: post
-date:  2019-01-16 12:00:00 -0600
+date:  2020-01-07 12:00:00 -0800
 tags: forthcoming
 
-cat_num: "awp016"
-title:  "UNTITLED"
-artist: "Thomas Wincek"
-format: CS / digital
-arrival: Summer 2020
+cat_num: "awp018"
+title:  "Laminariae"
+artist: "Mark Trayle"
+format: LP / digital
+arrival: 2021
 ---
 
-cover here
-
-<br/>
-
-<br/>arriving Spring 2020
+<br/>arriving Fall 2021
 
 <br/>
 
@@ -33,7 +29,3 @@ Recorded by FIRSTNAME LASTNAME.
 Mastered by FIRSTNAME LASTNAME.
 
 Design by [Steven Ziadie](http://s-ziadie.com/).
-
-<br/>
-
-## thanks
