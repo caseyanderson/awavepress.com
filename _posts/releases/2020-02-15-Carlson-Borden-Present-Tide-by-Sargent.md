@@ -1,18 +1,17 @@
 ---
 layout: post
-date:  2020-01-01 06:00:00 -0600
-tags: forthcoming
+date:  2020-02-15 06:00:00 -0600
+tags: releases
 
 cat_num: "awp013"
 title:  "Erik Carlson & T.J. Borden Present Tide by Matt Sargent"
 artist: "Erik Carlson & T.J. Borden"
 format: LP / digital
-arrival: "Spring 2020"
 ---
 
-<br/>arriving Spring 2020
+![](https://awavepress.com/assets/awp013-web-1400.jpg)
 
-<br/>
+<br/>Pre-order early June
 
 ## contents
 
@@ -27,7 +26,7 @@ Side A performed by Erik Carlson & T.J. Borden, Side B performed by Erik Carlson
 
 Composed 2015 by Matt Sargent
 
-Recorded November 2016 in San Diego, CA by Andrew Munsey
+Recorded November 2016 in San Diego, CA by Andrew Munsey at University of California San Diego
 
 Mixed November 2016 - 2017 in Saugerties, NY by Matt Sargent
 

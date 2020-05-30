@@ -8,6 +8,7 @@ title:  "lines transpire and blur"
 artist: "Erika Bell"
 format: CD / digital
 arrival: 2021
+published: false
 ---
 
 <br/>arriving Fall 2021
