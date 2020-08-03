@@ -1,6 +1,6 @@
 ---
 layout: post
-date:  2020-05-30 06:00:00 -0830
+date:  2020-05-30 06:00:00 -0700
 tags: forthcoming
 
 cat_num: "awp017"

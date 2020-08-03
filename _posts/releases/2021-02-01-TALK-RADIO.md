@@ -1,14 +1,13 @@
 ---
 layout: post
-date:  2020-01-06 12:00:00 -0800
+date:  2020-05-30 06:00:00 -0830
 tags: forthcoming
 
-cat_num: "awp015"
+cat_num: "awp020"
 title:  "TALK RADIO: An Opera"
 artist: "Casey Anderson"
 format: LP / digital
 arrival: "2021"
-published: false
 ---
 
 cover here

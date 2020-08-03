@@ -1,10 +1,10 @@
 ---
 layout: post
-date:  2020-05-29 12:00:00 -0600
+date:  2020-05-29 12:00:00 -0630
 tags: forthcoming
 
 cat_num: "awp016"
-title:  "UNTITLED"
+title:  "The Desert of the Real Itself"
 artist: "Thomas Wincek"
 format: CS / digital
 arrival: Fall 2020
@@ -14,7 +14,7 @@ cover here
 
 <br/>
 
-<br/>arriving Spring 2020
+<br/>arriving Fall 2020
 
 <br/>
 

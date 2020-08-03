@@ -1,14 +1,13 @@
 ---
 layout: post
-date:  2020-01-07 12:00:00 -0800
+date:  2020-05-30 06:00:00 -0800
 tags: forthcoming
 
-cat_num: "awp018"
+cat_num: "awp019"
 title:  "Laminariae"
 artist: "Mark Trayle"
 format: LP / digital
 arrival: 2021
-published: false
 ---
 
 <br/>arriving Fall 2021
