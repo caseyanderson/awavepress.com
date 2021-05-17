@@ -1,13 +1,13 @@
 ---
 layout: post
-date:  2020-05-30 06:00:00 -0600
+date:  2021-10-01 06:00:00 -0600
 tags: forthcoming
 
 cat_num: "awp015"
 title:  "SCENE MISSING"
 artist: "Casey Anderson"
 format: LP / digital
-arrival: Fall 2020
+arrival: Fall 2021
 ---
 
 cover here

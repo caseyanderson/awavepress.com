@@ -1,16 +1,20 @@
 ---
 layout: post
-date:  2020-05-30 06:00:00 -0730
+date:  2021-04-01 12:00:00 -0630
 tags: forthcoming
 
-cat_num: "awp018"
-title:  "lines transpire and blur"
-artist: "Erika Bell"
-format: CD / digital
-arrival: 2021
+cat_num: "awp016"
+title:  "The desert of the real itself"
+artist: "Thomas Wincek"
+format: CS / digital
+arrival: Fall 2020
 ---
 
-<br/>arriving Fall 2021
+cover here
+
+<br/>
+
+<br/>arriving Fall 2020
 
 <br/>
 
@@ -29,3 +33,7 @@ Recorded by FIRSTNAME LASTNAME.
 Mastered by FIRSTNAME LASTNAME.
 
 Design by [Steven Ziadie](http://s-ziadie.com/).
+
+<br/>
+
+## thanks

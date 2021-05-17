@@ -1,12 +1,12 @@
 ---
 layout: post
-date:  2020-05-30 06:00:00 -0800
+date:  2021-11-30 06:00:00 -0730
 tags: forthcoming
 
-cat_num: "awp019"
-title:  "Laminariae"
-artist: "Mark Trayle"
-format: LP / digital
+cat_num: "awp018"
+title:  "lines transpire and blur"
+artist: "Erika Bell"
+format: CD / digital
 arrival: 2021
 ---
 
