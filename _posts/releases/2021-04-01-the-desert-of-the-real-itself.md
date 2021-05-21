@@ -1,13 +1,13 @@
 ---
 layout: post
-date:  2021-04-01 12:00:00 -0630
+date:  2021-03-01 12:00:00 -0630
 tags: forthcoming
 
 cat_num: "awp016"
 title:  "The desert of the real itself"
 artist: "Thomas Wincek"
 format: CS / digital
-arrival: Fall 2020
+arrival: 2021
 ---
 
 cover here
