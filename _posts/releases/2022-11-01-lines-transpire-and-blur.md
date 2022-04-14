@@ -1,13 +1,13 @@
 ---
 layout: post
-date:  2021-05-17 06:00:00 -0730
+date:  2022-04-07 06:00:00 -0730
 tags: forthcoming
 
-cat_num: "awp018"
+cat_num: "awp020"
 title:  "lines transpire and blur"
 artist: "Erika Bell"
 format: CD / digital
-arrival: 2021
+arrival: 2022
 ---
 
 <br/>arriving Fall 2021
