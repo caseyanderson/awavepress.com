@@ -17,16 +17,16 @@ arrival: "Winter 2021"
 ## contents
 
 ### Tim Parkinson (21:52)
+* drum piece (09:25)
 
-1. drum piece (09:25)
 songs 2011
-2. La Dee (03:18)
-3. iSong (04:07)
-4. nana na na na (02:27)
-5. andidolike (02:34)
+* La Dee (03:18)
+* iSong (04:07)
+* nana na na na (02:27)
+* andidolike (02:34)
 
 #### Credits
-drum piece composed 2011, London, UK 
+drum piece composed 2011, London, UK
 Devin Maxwell, Snare Drum
 Devin Maxwell, Recording Engineer
 Maya Miro Johnson, Producer
@@ -34,11 +34,12 @@ Recorded at Vieve Gore Concert Hall, Westminster College
 
 songs 2011 performed by Parkinson Saunders (Tim Parkinson & James Saunders) recorded 10th July 2013, Bath Spa University, UK, recorded by Simon Reynell
 
+<br/>
 
 ### Travis Just (23:29)
-6. Paper Queen (10:17)
-7. System Lords (5:37)
-8. Relative Hells (7:33)
+* Paper Queen (10:17)
+* System Lords (5:37)
+* Relative Hells (7:33)
 
 #### Credits
 Paper Queen: Louis d’Heudieres, Neil Luck, James Oldham (voice); Otto Wilberg (bass); Alecs Pierce (drums); Travis Just (synth)

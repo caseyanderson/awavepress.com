@@ -34,27 +34,27 @@ Designed by Steven Ziadie
 ## Equipment Used
 
 ### Synthesizers
-Korg Wavestation EX
-Korg Wavestation VST
-Korg Volca FM
-Yamaha TQ5
-Yamaha SY22
+* Korg Wavestation EX
+* Korg Wavestation VST
+* Korg Volca FM
+* Yamaha TQ5
+* Yamaha SY22
 
 ### Sequencers
-Arturia BeatStep Pro
-Future Retro Zillion
+* Arturia BeatStep Pro
+* Future Retro Zillion
 
 ### Loopers
-Ableton Live Looper (x2)
-Lexicon Jamman (Expanded)
-TC-Helicon VoiceLive Touch 2
+* Ableton Live Looper (x2)
+* Lexicon Jamman (Expanded)
+* TC-Helicon VoiceLive Touch 2
 
 ### Drum Machines
-Korg Volca Sample
-Tama Techstar TS 305
-Yamaha TQ5
+* Korg Volca Sample
+* Tama Techstar TS 305
+* Yamaha TQ5
 
 ### Vocal Processors
-TC-Helicon VoiceLive Touch 2
-Michael Norris Spectral Freezing VST
-SampleSumo SaltyGrain
+* TC-Helicon VoiceLive Touch 2
+* Michael Norris Spectral Freezing VST
+* SampleSumo SaltyGrain
