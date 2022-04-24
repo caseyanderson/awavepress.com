@@ -1,13 +1,13 @@
 ---
-title: releases
-permalink: /releases/
+title: presents
+permalink: /presents/
 layout: page
-tag: releases
+tag: presents
 ---
 
 {%- for post in site.tags['presents'] -%}
 
-{% strip %}<h2>{{ post.calendar }} <a href="{{ post.url }}">{{post.artist}}</a>, {{ post.location | append: ", " | append: post.venue | append: ", " | append: post.cost | append: ", " | append: post.time }}</h2>{% endstrip %}
+{% strip %}<h2>{{ post.calendar | append: ", " | append: post.event-type }}: <a href="{{ post.url }}">{{post.title}}</a>, {{ post.venue | append: ", " | append: post.location | append: ", " | append: post.time | append: ", " | append: post.cost }}</h2>{% endstrip %}
 
 {%- endfor -%}
 
