@@ -13,7 +13,7 @@ cost: "$5"
 ---
 
 <h2>May 22nd, 2022, concert</h2>
-<h3>Coaxial Arts, Los Angeles, CA</h3>
+<h3>[Coaxial Arts](https://coaxialarts.org/), Los Angeles, CA</h3>
 <h3>Doors: 630PM, Music: 700PM</h3>
 <h3>$5</h3>
 
