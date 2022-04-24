@@ -12,16 +12,19 @@ location: "Los Angeles, CA"
 cost: "$5"
 ---
 
-<h2>{{ post.calendar }}, {{ post.event-type }}</h2>
-<h3>{{ post.venue }}, {{ post.location }}</h3>
-<h3>{{ post.time }}</h3>
-<h3>{{ post.cost }}</h3>
+<h2>May 22nd, 2022, concert</h2>
+<h3>Coaxial Arts, Los Angeles, CA</h3>
+<h3>Doors: 630PM, Music: 700PM</h3>
+<h3>$5</h3>
 
-Join us for a rare Los Angeles appearance from Switzerland-based electronic musician Jason Kahn, here performing a solo set as part of a massive tour. Casey Anderson opens the night with a solo performance. This night also features a duo performance by Kahn and Anderson. Jason's new CD on a wave press, awp018: Lacunae, should be available for purchase at the show.
+Join us for a rare Los Angeles appearance from Switzerland-based electronic musician [Jason Kahn](http://jasonkahn.net/index.html), here performing a solo set as part of a massive tour. Casey Anderson opens the night with a solo performance. This night also features a duo performance by Kahn and Anderson. Jason's new CD on a wave press, awp018: Lacunae, should be available for purchase at the show.
 
 Note: masks required for entrance
 
-<h3>Bio - Jason Kahn</h3>
+
+<h2>Bio</h2>
+**Jason Kahn**
+
 Born 1960 in New York, Jason Kahn is a musician, artist and writer. He lives in Zürich.
 
 As an electronic musician, guitarist, vocalist and percussionist Kahn collaborates with many international musicians in the context of free improvised music. He has also composed numerous electro acoustic pieces and graphical scores written for specific groups and musicians. His work can be heard on over two hundred solo, collaborative and compilation releases.
@@ -38,7 +41,7 @@ In 2011 Kahn started the Editions imprint to publish his own recordings and writ
 
 //
 
-Kahn's US tour is supported in part by Pro Helvetia and SUISA
+Kahn's 2022 US tour is supported in part by Pro Helvetia and SUISA
 
 ![]({{site.url}}/assets/prohelvetia_logo.jpg)
 ![]({{site.url}}/assets/suisa_logo.jpg)
