@@ -13,7 +13,7 @@ cost: "$5"
 ---
 
 <h2>May 22nd, 2022, concert</h2>
-<h3>[Coaxial Arts](https://coaxialarts.org/), Los Angeles, CA</h3>
+<h3><a href="https://coaxialarts.org/" target="_blank">Coaxial Arts</a>, Los Angeles, CA</h3>
 <h3>Doors: 630PM, Music: 700PM</h3>
 <h3>$5</h3>
 
@@ -21,6 +21,9 @@ Join us for a rare Los Angeles appearance from Switzerland-based electronic musi
 
 Note: masks required for entrance
 
+![]({{site.url}}/assets/jason_kahn_bw.jpg)
+
+<iframe src="https://player.vimeo.com/video/544697116?h=229d15aaa1&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 <h2>Bio</h2>
 **Jason Kahn**
